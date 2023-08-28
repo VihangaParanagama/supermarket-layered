@@ -17,7 +17,7 @@ import supermarket.layerd.entity.OrderEntity;
 
 /**
  *
- * @author anjanathrishakya
+ * @author Vihanga
  */
 public class OrderServiceImpl implements OrderService{
 
